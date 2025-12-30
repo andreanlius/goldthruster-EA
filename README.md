@@ -42,4 +42,5 @@ What sets the GoldThruster v1.0 apart is its innovative approach to managing the
 
 The GoldThruster v1.0 utilizes a Martingale-based strategy, which is inherently high-risk. While the bot includes a Shared Stop Loss for capital protection, this strategy can lead to significant drawdowns and is not suitable for all investors. **Use only with capital you can afford to lose.** We strongly recommend thorough backtesting and forward testing on a demo account before deploying this EA on a live account.
 
-**Get the GoldThruster v1.0 today and transform your approach to automated trading.**
+**Ready to transform your trading?** [Get the GoldThruster v1.0 today!](https://wa.me/62895612344661?text=Halo%20GoldThrusher,%20saya%20tertarik%20untuk%20menggunakan%20bot%20trading%20emas%20MT5.)
+
