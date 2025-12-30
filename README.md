@@ -1,5 +1,6 @@
 # goldthruster-EA
 Expert Advisor for Metatrader 5, go to our website [GoldThruster v1.0](https://gold-landing-eta.vercel.app/)
+You can also buy this EA from here [GoldThruster v1.0](https://clicky.id/chrisviel/goldthruster)
 # GoldThruster v1.0: Precision Grid Trading. Shared Risk. Exponential Potential.
 
 ## The Next Evolution in Automated Forex Trading
